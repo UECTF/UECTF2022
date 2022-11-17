@@ -1,6 +1,6 @@
 # UECTF2022
-<img src="uectfpr1-en.png" width=50% align="right">
 
+![logo](uectfpr1-en.png)
 
 **Online**  
 Format: Jeopardy
