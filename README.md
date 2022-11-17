@@ -1,5 +1,5 @@
 # UECTF2022
-![uectfpr1-en_25](https://user-images.githubusercontent.com/73647826/202461869-2b08b4ef-398d-4ed2-86b2-b50852da9dc1.png#right)
+<img src="uectfpr1-en.png" width=50% align="right">
 
 
 **Online**  
