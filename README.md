@@ -22,7 +22,7 @@ ctfdのRegistrationページ:xxxxxx
 
 ## Prizes(賞金)
 本大会では賞金等はありません。  
-本大会を通してCTFやセキュリティに興味を持ったり、新たな知見を得ていただけることを強く願います。
+本大会を通してCTFやセキュリティに興味を持ったり、新たな知見を得ていただけると幸いです。
 
 
 ## Contact(問い合わせ)
@@ -30,5 +30,5 @@ ctfdのRegistrationページ:xxxxxx
 [Twitter]
 
 
-[Discord]:https://discord.gg/56WJaWy4
+[Discord]:ttps://discord.gg/56WJaWy4
 [Twitter]:https://uectf.github.io/UECTF2022](https://twitter.com/uec_ctf
