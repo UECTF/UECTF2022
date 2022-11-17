@@ -30,5 +30,5 @@ ctfdのRegistrationページ:xxxxxx
 [Twitter](Twitter)
 
 
-[Discord]: https://uectf.github.io/UECTF2022
-[Twitter]: https://uectf.github.io/UECTF2022
+[Discord]:https://uectf.github.io/UECTF2022
+[Twitter]:https://uectf.github.io/UECTF2022
