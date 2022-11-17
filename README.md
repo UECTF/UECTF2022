@@ -1,12 +1,9 @@
 # UECTF2022
 
+<img src="https://user-images.githubusercontent.com/54098069/202422795-3d2ae313-5000-4c1e-ace0-99d11fe24eee.png" width=50% align="right">
+
 **Online**  
 Format: Jeopardy
-
-### Schedule
-GMT: 2022-11-18 11:00:00 +00:00 - 2022-11-20 11:00:00 +00:00  
-JST: 2022-11-18 20:00:00 +09:00 - 2022-11-20 20:00:00 +09:00  
-Calendar(ics): [UECTF2022.ics](./UECTF2022.ics)  
 
 <!-- 消す: <https://uectf.github.io/UECTF2022> -->
 
@@ -17,6 +14,12 @@ Calendar(ics): [UECTF2022.ics](./UECTF2022.ics)
 ### Registration(参加登録)
 
 **Registration**: [uectf.uec.tokyo](http://uectf.uec.tokyo)
+
+### Schedule
+GMT: 2022-11-18 11:00:00 +00:00 - 2022-11-20 11:00:00 +00:00  
+JST: 2022-11-18 20:00:00 +09:00 - 2022-11-20 20:00:00 +09:00  
+Calendar(ics): [UECTF2022.ics](./UECTF2022.ics)  
+
 
 ---
 
