@@ -1,15 +1,55 @@
 # UECTF2022
 
-### 開催期間: 
-JST: 2022/11/18 20:00:00(JST) ~ 2022/11/20 20:00:00(JST)
+<div align="center">
 
-最後に消す: <https://uectf.github.io/UECTF2022>
+[Website][Website] •
+[Discord][Discord] •
+[Twitter][Twitter] •
+[Calendar][Calendar]
+
+---
+</div>
+
+<ul>
+  <p>GMT: 2022-11-18 11:00:00 +00:00 - 2022-11-20 11:00:00 +00:00</p>
+  <p>JST: 2022-11-18 20:00:00 +09:00 - 2022-11-20 20:00:00 +09:00</p>
+
+
+[UECTF2022](./UECTF2022.ics)
+</ul>
+
+**Online**  
+Format: Jeopardy
+
+<!-- 消す: <https://uectf.github.io/UECTF2022> -->
+
+### Contacts
+
+Discord: [https://discord.gg/56WJaWy4](Discord)
 
 ## Registration(参加登録)
 
-ctfdのRegistrationページ: 
+**Registration**: [http://uectf.uec.tokyo/](Website)
 
-## Rules(ルール)
+---
+
+## Rules
+
+### Rules(en)
+
+- This is a individual competition.
+- Anyone can participate in this competition.
+- Standing is based on the number of points. The team with the most points wins.
+- In case of a tie, the team that solved earlier wins.
+- **MUST NOT**: DoS, DDoS, brute force, etc.
+- **MUST NOT**: Sharing flags, sharing hints, sharing accounts etc.
+- **MUST NOT**: Attack other competitors.
+- The flag format is `UECTF\{[\x20-\x7e]+\}`.
+- We will not provide any flags. Do not ask from the first point.
+- We may post the top standing teams on social media. If you do not want to be posted, please contact us at
+  [discord](Discord).
+
+## ルール
 
 - 本大会は個人戦のCTF大会です。
 - 本大会にはどなたでもご参加いただけます。
@@ -23,20 +63,21 @@ ctfdのRegistrationページ:
 - フラグの提出回数に制限はありませんが、ブルートフォースは行わないでください。
 - 私たちは、これらの規則に違反した参加者を失格にする権利を持ちます。
 - 特に指定のない限り、フラグの形式は`UECTF\{[\x20-\x7e]+\}`です。
-- 本大会の[Discord]にぜひご参加ください。
+- 本大会の[Discord](Discord)にぜひご参加ください。
 - 順位の高い参加者のユーザー名に関しては大会中や大会終了後にSNS等で取り上げることがございます。予めご了承ください。
+
+## Prizes
+
+- no prizes
+- enjoy the challenges :)
 
 ## Prizes(賞金)
 
-本大会では賞金等はありません。  
-本大会を通してCTFやセキュリティに興味を持ったり、新たな知見を得ていただけると幸いです。
+- 本大会では賞金等はありません。
+- 本大会を通してCTFやセキュリティに興味を持ったり、新たな知見を得ていただけると幸いです。
 
-## Contact(問い合わせ)
 
-[Discord]  
-[Twitter]
-
-[Discord]:ttps://discord.gg/56WJaWy4
-[Twitter]: https://twitter.com/uec_ctf
-[Website]: https://uectf.uec.tokyo/
-
+[Website]:http://uectf.uec.tokyo
+[Discord]:https://discord.gg/56WJaWy4
+[Twitter]:https://twitter.com/uec_ctf
+[Calendar]:./UECTF2022.ics
