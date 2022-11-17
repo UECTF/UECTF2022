@@ -26,8 +26,8 @@ ctfdのRegistrationページ:xxxxxx
 
 
 ## Contact(問い合わせ)
-[Discord](Discord)
-[Twitter](Twitter)
+[Discord]  
+[Twitter]
 
 
 [Discord]:https://uectf.github.io/UECTF2022
