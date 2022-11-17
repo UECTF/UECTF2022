@@ -1,6 +1,6 @@
 # UECTF2022
 
-![https://user-images.githubusercontent.com/54098069/202422795-3d2ae313-5000-4c1e-ace0-99d11fe24eee.png#center]
+![](https://user-images.githubusercontent.com/54098069/202422795-3d2ae313-5000-4c1e-ace0-99d11fe24eee.png#right)
 
 **Online**  
 Format: Jeopardy
