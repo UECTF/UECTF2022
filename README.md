@@ -1,19 +1,12 @@
 # UECTF2022
 
-<div align="center">
-  <p dir="auto">
-    <a href="http://uectf.uec.tokyo" rel="">Website</a> •
-    <a href="https://discord.gg/56WJaWy4" rel="nofollow">Discord</a> •
-    <a href="https://twitter.com/uec_ctf" rel="">Twitter</a> •
-    <a href="/UECTF/UECTF2022/blob/main/UECTF2022.ics">Calendar</a>
-  </p>
-</div>
+**Online**  
+Format: Jeopardy
 
+### Schedule
 GMT: 2022-11-18 11:00:00 +00:00 - 2022-11-20 11:00:00 +00:00  
 JST: 2022-11-18 20:00:00 +09:00 - 2022-11-20 20:00:00 +09:00  
 Calendar(ics): [UECTF2022.ics](./UECTF2022.ics)  
-**Online**  
-Format: Jeopardy
 
 <!-- 消す: <https://uectf.github.io/UECTF2022> -->
 
@@ -72,4 +65,7 @@ Discord: [https://discord.gg/56WJaWy4](Discord)
 - 本大会では賞金等はありません。
 - 本大会を通してCTFやセキュリティに興味を持ったり、新たな知見を得ていただけると幸いです。
 
+[Website]:http://uectf.uec.tokyo
 [Discord]:https://discord.gg/56WJaWy4
+[Twitter]:https://twitter.com/uec_ctf
+[Calendar]: ./UECTF2022.ics
