@@ -11,8 +11,7 @@
 
 GMT: 2022-11-18 11:00:00 +00:00 - 2022-11-20 11:00:00 +00:00  
 JST: 2022-11-18 20:00:00 +09:00 - 2022-11-20 20:00:00 +09:00  
-Calendar(ics): [UECTF2022.ics](./UECTF2022.ics)
-
+Calendar(ics): [UECTF2022.ics](./UECTF2022.ics)  
 **Online**  
 Format: Jeopardy
 
@@ -22,7 +21,7 @@ Format: Jeopardy
 
 Discord: [https://discord.gg/56WJaWy4](Discord)
 
-## Registration(参加登録)
+### Registration(参加登録)
 
 **Registration**: [http://uectf.uec.tokyo/](Website)
 
@@ -63,10 +62,12 @@ Discord: [https://discord.gg/56WJaWy4](Discord)
 
 ## Prizes
 
+### Prizes(en)
+
 - no prizes
 - enjoy the challenges :)
 
-## Prizes(賞金)
+### Prizes(賞金)
 
 - 本大会では賞金等はありません。
 - 本大会を通してCTFやセキュリティに興味を持ったり、新たな知見を得ていただけると幸いです。
