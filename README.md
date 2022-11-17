@@ -1,5 +1,5 @@
 # UECTF2022
-![uectfpr1-en_50](https://user-images.githubusercontent.com/73647826/202458766-46531c48-89a7-4467-b48e-4650059739db.png#right)
+![uectfpr1-en_25](https://user-images.githubusercontent.com/73647826/202461869-2b08b4ef-398d-4ed2-86b2-b50852da9dc1.png#right)
 
 
 **Online**  
@@ -8,7 +8,7 @@ Format: Jeopardy
 
 ### Contacts
 
-**Discord**: [https://discord.gg/56WJaWy4](https://discord.gg/56WJaWy4)
+**Discord**: [https://discord.gg/56WJaWy4](https://discord.gg/56WJaWy4)  
 **Twitter**: [https://twitter.com/uec_ctf](https://twitter.com/uec_ctf)
 
 ### Registration(参加登録)
