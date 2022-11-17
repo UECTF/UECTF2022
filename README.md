@@ -1,15 +1,15 @@
 # UECTF2022
 
-<img src="https://user-images.githubusercontent.com/54098069/202422795-3d2ae313-5000-4c1e-ace0-99d11fe24eee.png" width=50% align="right">
+![https://user-images.githubusercontent.com/54098069/202422795-3d2ae313-5000-4c1e-ace0-99d11fe24eee.png#center]
 
 **Online**  
 Format: Jeopardy
 
-<!-- 消す: <https://uectf.github.io/UECTF2022> -->
 
 ### Contacts
 
 **Discord**: [https://discord.gg/56WJaWy4](https://discord.gg/56WJaWy4)
+**Twitter**: [https://twitter.com/uec_ctf](https://twitter.com/uec_ctf)
 
 ### Registration(参加登録)
 
@@ -37,7 +37,7 @@ Calendar(ics): [UECTF2022.ics](./UECTF2022.ics)
 - The flag format is `UECTF\{[\x20-\x7e]+\}`.
 - We will not provide any flags. Do not ask from the first point.
 - We may post the top standing teams on social media. If you do not want to be posted, please contact us at
-  [discord](Discord).
+  [Discord].
 
 ## ルール
 
@@ -53,7 +53,7 @@ Calendar(ics): [UECTF2022.ics](./UECTF2022.ics)
 - フラグの提出回数に制限はありませんが、ブルートフォースは行わないでください。
 - 私たちは、これらの規則に違反した参加者を失格にする権利を持ちます。
 - 特に指定のない限り、フラグの形式は`UECTF\{[\x20-\x7e]+\}`です。
-- 本大会の[Discord](Discord)にぜひご参加ください。
+- 本大会の[Discord]にぜひご参加ください。
 - 順位の高い参加者のユーザー名に関しては大会中や大会終了後にSNS等で取り上げることがございます。予めご了承ください。
 
 ## Prizes
