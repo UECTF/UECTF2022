@@ -17,9 +17,18 @@ ctfdのRegistrationページ:xxxxxx
 - 私たちは、これらの規則に違反した参加者を失格にする権利を持ちます。
 - 特に指定のない限り、フラグの形式は`UECTF\{[\x20-\x7e]+\}`です。
 - 本大会のDiscordにぜひご参加ください。
+- 順位の高い参加者のユーザー名に関しては大会中や大会終了後にSNS等で取り上げることがございます。予めご了承ください。
+
+
 ## Prizes(賞金)
 本大会では賞金等はありません。  
 本大会を通してCTFやセキュリティに興味を持ったり、新たな知見を得ていただけることを強く願います。
+
+
 ## Contact(問い合わせ)
-Discord:xxxx
-Twitter:xxxx
+[Discord](Discord)
+[Twitter](Twitter)
+
+
+[Discord]: https://uectf.github.io/UECTF2022
+[Twitter]: https://uectf.github.io/UECTF2022
