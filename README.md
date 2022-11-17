@@ -12,11 +12,11 @@ Calendar(ics): [UECTF2022.ics](./UECTF2022.ics)
 
 ### Contacts
 
-Discord: [https://discord.gg/56WJaWy4](Discord)
+**Discord**: [https://discord.gg/56WJaWy4](https://discord.gg/56WJaWy4)
 
 ### Registration(参加登録)
 
-**Registration**: [http://uectf.uec.tokyo/](Website)
+**Registration**: [uectf.uec.tokyo](http://uectf.uec.tokyo)
 
 ---
 
@@ -65,7 +65,10 @@ Discord: [https://discord.gg/56WJaWy4](Discord)
 - 本大会では賞金等はありません。
 - 本大会を通してCTFやセキュリティに興味を持ったり、新たな知見を得ていただけると幸いです。
 
-[Website]:http://uectf.uec.tokyo
-[Discord]:https://discord.gg/56WJaWy4
-[Twitter]:https://twitter.com/uec_ctf
+
+
+
+[Discord]: https://discord.gg/56WJaWy4
+[Twitter]: https://twitter.com/uec_ctf
+[Website]: http://uectf.uec.tokyo
 [Calendar]: ./UECTF2022.ics
