@@ -4,7 +4,7 @@ VERSION:2.0
 BEGIN:VEVENT
 DTEND;TZID=Asia/Tokyo:20221120T200000
 DTSTAMP:20221117T082725Z
-DESCRIPTION:UECTF2022\n\nWebsite: https://uectf.github.io\nChallenges: uectf.uec.tokyo
+DESCRIPTION:UECTF2022\n\nWebsite: https://uectf.github.io\nChallenges: https://uectf.uec.tokyo
 URL;VALUE=URI:uectf.github.io
 SUMMARY:UECTF2022
 DTSTART;TZID=Asia/Tokyo:20221118T200000
